@@ -1,5 +1,6 @@
 Power BI sales analysis project created for the Maven Analytics Northwind Challenge.
 
+
 📊 Northwind Traders – Power BI Performance Dashboard
 
 This repository contains my Power BI dashboard project built using the Northwind Traders dataset.  
@@ -76,8 +77,8 @@ The project uses the **Northwind Traders** sample dataset which includes:
 
 📸 Dashboard Preview (All Years)
 
-<p align="center">
- <img src="Dashboard-images/Northwind-Dashboard.png" width="70%">
+<p align="left">
+ <img src="Dashboard-images/Northwind-Dashboard.png" width="90%">
 </p>
 
 
