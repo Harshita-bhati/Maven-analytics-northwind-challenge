@@ -1,17 +1,19 @@
-Power BI sales analysis project created for the Maven Analytics Northwind Challenge.
+<h1> Maven Analytics - Northwind Challenge </h1>
 
-
-📊 Northwind Traders – Power BI Performance Dashboard
-
-This repository contains my Power BI dashboard project built using the Northwind Traders dataset.  
-The dashboard provides an interactive overview of sales performance, revenue, orders, delivery efficiency, and product/category insights.
+<h2><u> Introduction</u></h2>
+Northwind Traders is a global import and export company that specializes in supplying high-quality gourmet food products to restaurants, cafes, and specialty food retailers around the world. This project was aimed at creating a top-level KPI dashboard for the executive team to help them make insightful decisions and increase the sales of the company. This project analysis and its visualization were done in Power BI.
 
 ---
 
-🚀 Project Overview
-
-This Power BI report helps analyze business performance across different time periods and dimensions such as customers, shippers,product and categories.  
-Users can interact with slicers to filter by year and instantly see changes in KPIs and visuals.
+<h2>Problem Statement</h2>
+The goal of this analysis is to:
+<ul>
+  <li>Determine noticeable sales trends over time.</li>
+  <li>Know which are the best and worst selling products.</li>
+  <li>Identify the company's key customers.</li>
+  <li>Determine shipping costs across providers.</li>
+  <li>Finally, the goal is to create data-driven plans that can aid in increasing sales, improving customer satisfaction, and driving the company's growth.</li>
+</ul>
 
 ---
 
